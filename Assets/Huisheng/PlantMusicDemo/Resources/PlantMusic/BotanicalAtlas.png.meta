@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: 81d97b8a5a2ab4e93aa5214b7b526819
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2930396529098805144
+    second: BotanicalAtlas_0
+  - first:
+      213: -7302380868843177520
+    second: BotanicalAtlas_1
+  - first:
+      213: -4969893794956869475
+    second: BotanicalAtlas_2
+  - first:
+      213: 3562789686377257246
+    second: BotanicalAtlas_3
+  - first:
+      213: -6902797240260006035
+    second: BotanicalAtlas_4
+  - first:
+      213: -3439637982701356827
+    second: BotanicalAtlas_5
+  - first:
+      213: -7440123109130215064
+    second: BotanicalAtlas_6
+  - first:
+      213: 1156470382827028894
+    second: BotanicalAtlas_7
+  - first:
+      213: 6355372620643563348
+    second: BotanicalAtlas_8
+  - first:
+      213: 2917041548956703284
+    second: BotanicalAtlas_9
+  - first:
+      213: -7314780746712765204
+    second: BotanicalAtlas_10
+  - first:
+      213: 6855390685642924437
+    second: BotanicalAtlas_11
+  - first:
+      213: 5957709101103606972
+    second: BotanicalAtlas_12
+  - first:
+      213: 2402253031257715177
+    second: BotanicalAtlas_13
+  - first:
+      213: -3170653990139279483
+    second: BotanicalAtlas_14
+  - first:
+      213: 5967147995311917210
+    second: BotanicalAtlas_15
+  - first:
+      213: -1086569667545347093
+    second: BotanicalAtlas_16
+  - first:
+      213: -5688998809971093060
+    second: BotanicalAtlas_17
+  - first:
+      213: -438668060791439948
+    second: BotanicalAtlas_18
+  - first:
+      213: -5382621291025702278
+    second: BotanicalAtlas_19
+  - first:
+      213: -8943333582539588026
+    second: BotanicalAtlas_20
+  - first:
+      213: 3841129797157346923
+    second: BotanicalAtlas_21
+  - first:
+      213: 8811636214188843409
+    second: BotanicalAtlas_22
+  - first:
+      213: -6123328612523300199
+    second: BotanicalAtlas_23
+  - first:
+      213: 4703423297227223912
+    second: BotanicalAtlas_24
+  - first:
+      213: -2121842047157233694
+    second: BotanicalAtlas_25
+  - first:
+      213: -686001298415474141
+    second: BotanicalAtlas_26
+  - first:
+      213: -7448029276324196436
+    second: BotanicalAtlas_27
+  - first:
+      213: -1551788921688254201
+    second: BotanicalAtlas_28
+  - first:
+      213: 7070568203294177499
+    second: BotanicalAtlas_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BotanicalAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 610
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc8f70e1cdaa820800000000000000
+      internalID: 2930396529098805144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1197
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d97ef91a4bb8aa90800000000000000
+      internalID: -7302380868843177520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 626
+        width: 596
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d908d24dce3670bb0800000000000000
+      internalID: -4969893794956869475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 966
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1911f1e752917130800000000000000
+      internalID: 3562789686377257246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 955
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f61c98b765430a0800000000000000
+      internalID: -6902797240260006035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 811
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8f42d8a73f340d0800000000000000
+      internalID: -3439637982701356827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 732
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8616e13a37f5fb890800000000000000
+      internalID: -7440123109130215064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 706
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914aa99fab9c0010800000000000000
+      internalID: 1156470382827028894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f3bce9b1d23850800000000000000
+      internalID: 6355372620643563348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 709
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a9e9865d96b7820800000000000000
+      internalID: 2917041548956703284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 680
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca15e8aadac7a90800000000000000
+      internalID: -7314780746712765204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 644
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591a446d18d332f50800000000000000
+      internalID: 6855390685642924437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 634
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6466bcd80ea250800000000000000
+      internalID: 5957709101103606972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 664
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1b8bc7764865120800000000000000
+      internalID: 2402253031257715177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 658
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c21caef29ff3d0800000000000000
+      internalID: -3170653990139279483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 634
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9840c68c719fc250800000000000000
+      internalID: 5967147995311917210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 626
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebce3ee4aabbe0f0800000000000000
+      internalID: -1086569667545347093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 25
+        width: 592
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb19d0459bd9c01b0800000000000000
+      internalID: -5688998809971093060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 616
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd773e09b989e9f0800000000000000
+      internalID: -438668060791439948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 600
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7265f344761d45b0800000000000000
+      internalID: -5382621291025702278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 616
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ef7e09d75e2e380800000000000000
+      internalID: -8943333582539588026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 592
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e5bb7033f6e4530800000000000000
+      internalID: 3841129797157346923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 600
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191a1b46378394a70800000000000000
+      internalID: 8811636214188843409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2097d111950ba0800000000000000
+      internalID: -6123328612523300199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 536
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863768ba19ae54140800000000000000
+      internalID: 4703423297227223912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 494
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e794bd66e3bd82e0800000000000000
+      internalID: -2121842047157233694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 481
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a2d742475da76f0800000000000000
+      internalID: -686001298415474141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 606
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf8cf3a5d843a890800000000000000
+      internalID: -7448029276324196436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709926c8230f67ae0800000000000000
+      internalID: -1551788921688254201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotanicalAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 254
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd87585c154bf1260800000000000000
+      internalID: 7070568203294177499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BotanicalAtlas_0: 2930396529098805144
+      BotanicalAtlas_1: -7302380868843177520
+      BotanicalAtlas_10: -7314780746712765204
+      BotanicalAtlas_11: 6855390685642924437
+      BotanicalAtlas_12: 5957709101103606972
+      BotanicalAtlas_13: 2402253031257715177
+      BotanicalAtlas_14: -3170653990139279483
+      BotanicalAtlas_15: 5967147995311917210
+      BotanicalAtlas_16: -1086569667545347093
+      BotanicalAtlas_17: -5688998809971093060
+      BotanicalAtlas_18: -438668060791439948
+      BotanicalAtlas_19: -5382621291025702278
+      BotanicalAtlas_2: -4969893794956869475
+      BotanicalAtlas_20: -8943333582539588026
+      BotanicalAtlas_21: 3841129797157346923
+      BotanicalAtlas_22: 8811636214188843409
+      BotanicalAtlas_23: -6123328612523300199
+      BotanicalAtlas_24: 4703423297227223912
+      BotanicalAtlas_25: -2121842047157233694
+      BotanicalAtlas_26: -686001298415474141
+      BotanicalAtlas_27: -7448029276324196436
+      BotanicalAtlas_28: -1551788921688254201
+      BotanicalAtlas_29: 7070568203294177499
+      BotanicalAtlas_3: 3562789686377257246
+      BotanicalAtlas_4: -6902797240260006035
+      BotanicalAtlas_5: -3439637982701356827
+      BotanicalAtlas_6: -7440123109130215064
+      BotanicalAtlas_7: 1156470382827028894
+      BotanicalAtlas_8: 6355372620643563348
+      BotanicalAtlas_9: 2917041548956703284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
